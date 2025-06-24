@@ -87,7 +87,7 @@
     "@babel/preset-env": "^7.12.1",
     "@types/express": "^4.17.8",
     "@types/node": "^10.17.44",
-    "ava": "^1.4.1",
+    "ava": "^6.4.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.1.0",
@@ -103,7 +103,7 @@
     "express": "^4.17.1",
     "generate-release": "^1.1.1",
     "ncp": "^2.0.0",
-    "nyc": "^14.1.1",
+    "nyc": "^17.1.0",
     "rimraf": "^2.7.1",
     "tslint": "^5.20.1",
     "typescript": "^3.9.7"
